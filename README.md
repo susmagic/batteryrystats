@@ -3,7 +3,7 @@
 
 `$pip install argparse`
 
-`$python3 путь к файлу histogram.py -s путь к отчёту bugreport1. txt`
+`$python3 path_to_histogram.py -s path_to_bugreport.txt`
 
 result:
 
